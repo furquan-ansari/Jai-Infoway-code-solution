@@ -1,0 +1,25 @@
+{
+  "name": "call-external-api",
+  "version": "1.0.0",
+  "description":"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "call",
+    "rest",
+    "martand",
+    "singh",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "Muhammad Furquan Ansari",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
